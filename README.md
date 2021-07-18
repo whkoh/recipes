@@ -1,5 +1,7 @@
 # Florentine biscuits
 
+[YouTube](https://www.youtube.com/watch?v=Ix4MWdM1FtU)
+
 ## Ingredients
 
 1. 125 grams sliced almonds
