@@ -1,2 +1,4 @@
 title: "Recipes"
 remote_theme: pmarsceill/just-the-docs
+baseurl: "/recipes" # the subpath of your site, e.g. /blog
+url: "https://whkoh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
