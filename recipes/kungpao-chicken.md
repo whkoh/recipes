@@ -21,10 +21,8 @@
 
 ## Directions
 1. To make sauce, whisk together soy sauce, cooking wine, vinegar, brown sugar, sesame oil, stock, corn starch, and pepper flakes.
-
-
-1. Preheat lrg nonstick over med-high.
-1. dd a squeeze of oil, then chicken thighs and pinch of salt.
+1. Preheat large nonstick over med-high.
+1. Add a squeeze of oil, then chicken thighs and pinch of salt.
 1. Sear for 5-6min until well browned. 
 1. Transfer to a bowl and return pan to heat. 
 1. Add celery, peppers, and pinch salt. Stir to coat with oil. 
