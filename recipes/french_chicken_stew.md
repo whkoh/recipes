@@ -1,5 +1,7 @@
 # French chicken stew with rice
 
+[YouTube](https://www.youtube.com/watch?v=n4FWPe2qkeg)
+
 Serves 8. 
 
 ## Ingredients
